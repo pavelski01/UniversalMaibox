@@ -121,7 +121,7 @@
     <value>pavelski01@gmail.com</value>
   </data>
   <data name="DefaultPassword" xml:space="preserve">
-    <value>p@tr1cius1</value>
+    <value />
   </data>
   <data name="DefaultSmptHost" xml:space="preserve">
     <value>smtp.gmail.com</value>
